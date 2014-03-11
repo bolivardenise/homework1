@@ -1,0 +1,26 @@
+
+.firstrow {
+    color: white;
+    background-color: #687291;
+    font-weight: bold;
+	font-size: 13px;
+	font-family: tahoma;
+	
+}
+
+.highlight {
+    color: black;
+    background-color: #dfe1e7;
+	font-family: tahoma;
+	font-size: 13px;
+}
+
+.light {
+    color: black;
+    background-color: #eeeff2;
+	font-family: tahoma;	
+	font-size: 13px;
+}
+.lastline {display:none;}
+
+td.center{text-align:center;}

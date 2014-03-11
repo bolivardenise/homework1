@@ -1,0 +1,25 @@
+table {border-color: #d0d0ff; border-width: 10px; border-style: solid;}
+
+.firstrow {
+    color: black;
+    background-color: white;
+    font-weight: bold;
+}
+
+.highlight {
+    color: black;
+    background-color: white;
+}
+
+.light {
+    color: black;
+    background-color: white;
+	
+}
+
+.lastline {    color: black;
+    background-color: white;
+    font-weight: bold;
+	text-decoration:overline;
+	
+}
